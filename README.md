@@ -16,7 +16,7 @@ This is a centralized archive of past academic assessments used at IIT. The goal
 Have past assessments you'd like to share?
 
 - Fork this repository
-- Add your files in the appropriate folder (Year → Semester → Module)
+- Add your files in the appropriate folder (Level → Module)
 - Create a pull request
 
 All contributions are welcome and appreciated!
