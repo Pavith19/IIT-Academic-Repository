@@ -38,11 +38,6 @@ This is a centralized archive of past academic assessments used at IIT. The goal
   - Mobile Native Application Development
   - Reasoning About Programs
 
-## License
-
-This repository is primarily for personal use and academic reference. Please respect academic integrity when using these materials.
-
-
 ## 🤝 Contribute
 
 Have past assessments you'd like to share?
