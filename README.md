@@ -11,6 +11,17 @@ This is a centralized archive of past academic assessments used at IIT. The goal
 
 ---
 
+## 🤝 Contribute
+
+Have past assessments you'd like to share?
+
+- Fork this repository
+- Add your files in the appropriate folder (Year → Semester → Module)
+- Create a pull request
+
+All contributions are welcome and appreciated!
+
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://instagram.com/_mr_2001__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_mr_2001__" height="30" width="40" /></a>
