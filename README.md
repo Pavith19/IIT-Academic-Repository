@@ -11,6 +11,84 @@ This is a centralized archive of past academic assessments used at IIT. The goal
 
 ---
 
+##Directory structure
+
+└── pavith19-iit-academic-repository.git/
+    ├── README.md
+    ├── Level_04/
+    │   ├── Computer_Science_Practice/
+    │   │   └── Coursework/
+    │   ├── Mathematics/
+    │   │   └── ICT/
+    │   ├── Programming_Principles_1/
+    │   │   ├── Coursework/
+    │   │   └── ICT/
+    │   │       └── Programming_Principles_1_ICT_2020.docx
+    │   ├── Programming_Principles_2/
+    │   │   └── Coursework/
+    │   ├── Trends_In_Computer_Science/
+    │   │   └── Coursework/
+    │   └── Web_Design_And_Development/
+    │       └── Coursework/
+    │           └── Web_Design_And_Development_CW_2023_Refer_Defer.html
+    ├── Level_05/
+    │   ├── Algorithms_Theory_Design_and_Implementation/
+    │   │   ├── Coursework/
+    │   │   │   └── Algorithms_CW_2021.zip
+    │   │   └── ICT/
+    │   ├── Client_Server_Architecture/
+    │   │   ├── Coursework/
+    │   │   └── ICT/
+    │   ├── Database_Design_And_Practice_1/
+    │   │   ├── README.md
+    │   │   └── ICT/
+    │   ├── Database_Systems/
+    │   │   ├── README.md
+    │   │   ├── Coursework/
+    │   │   └── ICT/
+    │   ├── Mobile_Application_Development/
+    │   │   └── Coursework/
+    │   │       └── Mobile_Application_Development_CW_2023_2.zip
+    │   ├── Object_Oriented_Analytical_Design/
+    │   │   └── ICT/
+    │   ├── Object_Oriented_Programming/
+    │   │   └── Coursework/
+    │   │       └── Object_Oriented_Programming_CW_2019.docx
+    │   └── Serverside_Web_Development/
+    │       └── ICT/
+    └── Level_06/
+        ├── Advanced_Server_Side_Web_Programming/
+        │   └── Coursework/
+        ├── Concurrent_Programming/
+        │   ├── Coursework/
+        │   │   ├── Concurrent_Programming_CW_2023.zip
+        │   │   └── Concurrent_Programming_CW_2023_Refer_Defer.zip
+        │   └── ICT/
+        │       ├── Concurrent_Programming_ICT_2012_Resit.docx
+        │       ├── Concurrent_Programming_ICT_2012_Resit_v1.docx
+        │       ├── Concurrent_Programming_ICT_2016_Mock_v1.docx
+        │       └── Concurrent_Programming_ICT_2016_Mock_v2.docx
+        ├── Cyber_Security/
+        │   ├── Coursework/
+        │   └── ICT/
+        │       └── Mock Exam Questions (Google Forms)/
+        │           ├── Cyber Security Mock Exam Questions - I MCQ.url
+        │           ├── Cyber Security Mock Exam Questions - III MCQ.url
+        │           ├── Cyber Security Mock Exam Questions - IV MCQ.url
+        │           ├── Cyber Security Mock Exam Questions - V MCQ.url
+        │           ├── Cyber Security Mock Exam Questions II (2).url
+        │           └── Cyber Security Mock Exam Questions II.url
+        ├── Formal_Methods/
+        │   ├── README.md
+        │   ├── Coursework/
+        │   └── ICT/
+        ├── Mobile_Native_Application_Development/
+        │   ├── Coursework/
+        │   └── ICT/
+        └── Reasoning_About_Programs/
+            ├── README.md
+            └── ICT/
+
 ## 🤝 Contribute
 
 Have past assessments you'd like to share?
